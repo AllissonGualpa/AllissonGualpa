@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 👋
+
+- 🤓 Soy estudiante de Ingeniería en Computación en la Universidad Espíritu Santo UEES.
+- 🔖 Mi principal hobby es leer.
+- 🖥️ Mi perfil en Linkedln es [Allisson Gualpa](https://www.linkedin.com/in/allisson-gualpa-490426320/)
+
 
 <!--
 **AllissonGualpa/AllissonGualpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
